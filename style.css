@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.page{
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 30px white;
+    border-radius: 10px;
+}
+
+.heading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.subheading{
+    text-decoration: underline;
+}
