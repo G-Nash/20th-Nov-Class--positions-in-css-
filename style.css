@@ -20,11 +20,16 @@ body{
 .heading{
     text-align: center;
     text-decoration: underline;
+    /* background-color: red; */
     /* position: fixed;
     margin-left: auto;
     margin-right: auto;
-    top: 10px;
-    opacity: 0.5; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    top: 10px; */
+    /* opacity: 0.5; */
 }
 
 .subheading{
@@ -76,4 +81,16 @@ body{
     border: solid white;
     height: 50px;
     width: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+/* #fixedbar{
+    border: solid red;
+    height: 50px;
+    max-width: 5000px;
+    background-color: red;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+} */
