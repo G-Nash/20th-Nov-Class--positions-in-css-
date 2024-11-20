@@ -42,3 +42,19 @@ body{
     /* left: 10px; */
     /* top: 10px; */
 }
+
+#rt1{
+    height: 50px;
+    width: 50px;
+    border: solid cyan;
+    position: relative;
+    left: 60px;
+}
+
+#rt2{
+    height: 50px;
+    width: 50px;
+    border: solid teal;
+    position: relative;
+    top: 10px;
+}
