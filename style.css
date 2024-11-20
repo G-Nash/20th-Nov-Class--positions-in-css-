@@ -23,3 +23,18 @@ body{
 .subheading{
     text-decoration: underline;
 }
+
+#at1{
+    height: 50px;
+    width: 50px;
+    border: solid red;
+    position: absolute;
+}
+
+#at2{
+    height: 50px;
+    width: 50px;
+    border: solid blue;
+    position: absolute;
+    left: 10px;
+}
