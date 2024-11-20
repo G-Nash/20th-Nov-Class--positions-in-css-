@@ -32,6 +32,11 @@ body{
     border: solid red;
     position: absolute;
     z-index: 2;
+    /* bottom: 60px;
+    top: 50px;
+    bottom: 60px; */
+    /* left: 50px;
+    right: 100px; */
 }
 
 #at2{
