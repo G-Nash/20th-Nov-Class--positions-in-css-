@@ -29,6 +29,7 @@ body{
     width: 50px;
     border: solid red;
     position: absolute;
+    z-index: 2;
 }
 
 #at2{
@@ -36,5 +37,6 @@ body{
     width: 50px;
     border: solid blue;
     position: absolute;
-    left: 10px;
+    /* left: 10px; */
+    /* top: 10px; */
 }
